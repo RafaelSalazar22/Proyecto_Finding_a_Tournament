@@ -1,0 +1,53 @@
+[
+  {
+    "IdClub": 1,
+    "NombreClub": "Willms Inc",
+    "Direccion": "41 Nelson Pass",
+    "TelefonoContacto": "+60-960-618-9025",
+    "Geoubicacion": 102.9746601,
+    "Logotipo": "https://robohash.org/fugaharumsed.png?size=50x50&set=set1",
+    "Servicios": {
+      "IdServicio": 1,
+      "Diciplina": "Futbol",
+      "HorarioDiciplina": "12:00PM",
+      "CantidadPer": 24,
+      "PersHabilidadesDiferentes": true,
+      "IdClub": 1
+    }
+  },
+  {
+    "IdClub": 2,
+    "NombreClub": "Corkery-O'Keefe",
+    "Direccion": "2 New Castle Pass",
+    "TelefonoContacto": "+351-127-615-0083",
+    "Geoubicacion": -8.7012507,
+    "Logotipo": "https://robohash.org/indictamaxime.png?size=50x50&set=set1",
+    "Servicios": {
+      "IdServicio": 2,
+      "Diciplina": "Beisbol",
+      "HorarioDiciplina": "5:00PM",
+      "CantidadPer": 30,
+      "PersHabilidadesDiferentes": false,
+      "IdClub": 2
+      }
+    },
+
+    {
+      "IdClub": 3,
+      "NombreClub": "Moore, Ferry and Dickinson",
+      "Direccion": "6 Banding Way",
+      "TelefonoContacto": "+62-895-362-9198",
+      "Geoubicacion": 112.282503,
+      "Logotipo": "https://robohash.org/nonoditnecessitatibus.png?size=50x50&set=set1",
+      "Servicios": {
+        "IdServicio": 3,
+        "Diciplina": "Beisbol",
+        "HorarioDiciplina": "1:00PM",
+        "CantidadPer": 30,
+        "PersHabilidadesDiferentes": false,
+        "IdClub": 3
+        }
+    }
+
+  ]
+  
